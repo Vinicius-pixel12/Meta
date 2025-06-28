@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 4f304726e31932cee6aedcebbd0f3675e427acf0 Softgen <admin@softgen.ai> 1748855317 +0000	commit (initial): Initial commit
+4f304726e31932cee6aedcebbd0f3675e427acf0 0000000000000000000000000000000000000000 Softgen <admin@softgen.ai> 1748855317 +0000	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 4f304726e31932cee6aedcebbd0f3675e427acf0 Softgen <admin@softgen.ai> 1748855317 +0000	Branch: renamed refs/heads/master to refs/heads/main
+4f304726e31932cee6aedcebbd0f3675e427acf0 c6fa231d5cdab8650b22557e00f869211ced7386 softgenai <admin@softgen.ai> 1751049270 +0000	commit: Updates
+c6fa231d5cdab8650b22557e00f869211ced7386 39d3facc9120e1e763a13b8048b5becab1f4d58f softgenai <admin@softgen.ai> 1751049478 +0000	commit: feat(dashboard): Add charts, checkout tracking, and integrations guide
+39d3facc9120e1e763a13b8048b5becab1f4d58f bd4fb72f36520273a75e7ac375cc262ed8883320 softgenai <admin@softgen.ai> 1751049986 +0000	commit: Edit src/components/dashboard/IntegrationsGuide.tsx
