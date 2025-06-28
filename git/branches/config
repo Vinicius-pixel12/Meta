@@ -1,1 +1,8 @@
-
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://softgenprojects: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@github.com/softgenai/sg-ff1a103c-73a0-486e-bad3-f431eb6ce124-1748855316.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
